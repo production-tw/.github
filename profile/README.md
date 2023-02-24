@@ -4,3 +4,4 @@
   <h1 align="center">光雲製作 LAC Production
 </h1>
 <p align="center"> 創立於 2023 年，製作與研究有關教育、科技與平面設計的事物。</p>
+<p align="center"> —— 旗下光雲科技、光雲製作與光雲 Minecraft 伺服器（簡稱光雲伺服器）——</p>
