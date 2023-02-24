@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center"> 
+  <img src="https://media.discordapp.net/attachments/1058257662556508170/1078703399119368222/lac-develop-all.png?width=1440&height=608" style=" width:256px ; height:108px "  >
+</p> 
+  <h1 align="center">光雲製作 LAC Production
+</h1>
+<p align="center"> 創立於 2023 年，製作與研究有關教育、科技與平面設計的事物。</p>
